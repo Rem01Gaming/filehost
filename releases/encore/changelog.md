@@ -1,11 +1,13 @@
-## Encore Tweaks 4.1
+## Encore Tweaks 4.2
 
-- Fix CPU governor defaulted as performance
-- Fix overheating after startup
-- Expose game information through `/dev/encore_game_info`
-- Reintroduce `cpu_dcvs` tweaks (LLCC, L3 and DDR)
-- Add more TCP congestion algo to use
+- Disable MTK PBM on performance profile
+- Update Vietnamese and Polish WebUI translation
+- Use `energy_step` for default CPU governor candidate
+- Remove unnecessary file creation on late_start service
+- Workaround for game freezes in Xiaomi peridot
+- Globally disable `iostats` and `add_random`
+- Reduce `nr_requests` to 32 on performance profile
 - Other misc changes and optimizations
 
 ---
-**SHA256**: `44cbe2de95afb16dd9ac596a743583279ee64da56fe0669c22774021b1986066`
+**MD5**: `225bfb58140bd53dad537e8390198209`
