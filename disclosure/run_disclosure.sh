@@ -38,3 +38,6 @@ chmod +x ./disclosure
 
 # Remove disclosure back
 rm -f ./disclosure
+
+# Move back to previous directory
+cd - >/dev/null
