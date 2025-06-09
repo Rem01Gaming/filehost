@@ -18,7 +18,7 @@ cd
 ARCH=$(uname -m)
 case $ARCH in
 "aarch64") ARCH_TMP="arm64-v8a" ;;
-"armv7l") ARCH_TMP="armeabi-v7a" ;;
+armv*) ARCH_TMP="armeabi-v7a" ;;
 "x86_64") ARCH_TMP="x86_64" ;;
 "i686") ARCH_TMP="x86" ;;
 "riscv64") ARCH_TMP="riscv64" ;;
