@@ -6,7 +6,7 @@
 abort_unsupported_arch() {
 	echo "*********************************************************"
 	echo "! Unsupported Architecture: $ARCH"
-	echo "! Your CPU architecture is not supported by Encore Tweaks."
+	echo "! Your CPU architecture is not supported by Disclosure."
 	echo "*********************************************************"
 	exit 1
 }
