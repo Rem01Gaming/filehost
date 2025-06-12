@@ -34,7 +34,7 @@ fi
 
 # Execute disclosure
 chmod +x ./disclosure
-./disclosure
+time ./disclosure
 
 # Remove disclosure back
 rm -f ./disclosure
