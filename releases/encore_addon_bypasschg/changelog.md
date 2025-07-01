@@ -1,8 +1,5 @@
-## Encore Bypass Charging 1.6
+## Encore Bypass Charging 1.7
 
-- Compatibility patches for Encore Tweaks 4.5
-- Add new switch `SPREADTRUM_STOPCHG`
-- License token algorithm adjustment
-- Only test bypass charging functionality when it never tested previously
-- Code refactor
+- Do not re-test bypass charging if it was tested before
+- Allow installation without plugging to the charger after tested
 - Other misc changes and optimizations
