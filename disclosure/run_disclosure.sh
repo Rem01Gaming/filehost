@@ -11,6 +11,10 @@ abort_unsupported_arch() {
 	exit 1
 }
 
+echo "Disclosure CLI is deprecated!"
+echo "You shouldn't use this anymore, instead use Disclosure APK."
+echo ""
+
 # Move to home directory
 cd
 
