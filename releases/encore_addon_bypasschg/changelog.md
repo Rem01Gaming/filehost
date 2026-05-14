@@ -1,5 +1,6 @@
-## Encore Bypass Charging 1.7
+## Encore Bypass Charging 2.0
 
-- Do not re-test bypass charging if it was tested before
-- Allow installation without plugging to the charger after tested
+- Improve bypass charging test
+- Fix bypass charging reset on charger disconnect
+- Security patches
 - Other misc changes and optimizations
