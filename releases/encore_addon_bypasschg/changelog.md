@@ -1,4 +1,4 @@
-## Encore Bypass Charging 2.0
+## Encore Bypass Charging 2.1
 
 - Adjust charging switches
 - Add 5s delay before measuring current to stabilize system 
