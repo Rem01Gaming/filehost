@@ -1,6 +1,4 @@
-## Encore Bypass Charging 2.1
+## Encore Bypass Charging 2.2
 
-- Adjust charging switches
-- Add 5s delay before measuring current to stabilize system 
-- Add multi token support to mitigate SN collision
+- Add Xiaomi Smart Charging switch
 - Other misc changes and optimizations
